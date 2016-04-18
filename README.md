@@ -9,7 +9,3 @@ placeholder的向下兼容，适配ie9等无placeholder属性
 3.javascript
   jQuery('input[placeholder]').placeholder();
 ***********************
-fdasf
-fdaf
-fa  
-fdg
