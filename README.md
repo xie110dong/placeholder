@@ -11,4 +11,5 @@ placeholder的向下兼容，适配ie9等无placeholder属性
 ***********************
 fdasf
 fdaf
-fa
+fa  
+fdg
