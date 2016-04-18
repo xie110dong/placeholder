@@ -1,0 +1,2 @@
+# placeholder
+placeholder的向下兼容，适配ie9等无placeholder属性
