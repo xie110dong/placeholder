@@ -1,5 +1,5 @@
 # placeholder
-placeholder的向下兼容，适配ie9等无placeholder属性
+placeholder的向下兼容，适配ie9等无placeholder属性  
 1. js引用  
   a)引入jquery.min.js  
   b)引入jquery.placeholder.js  
